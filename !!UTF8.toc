@@ -1,0 +1,10 @@
+## Interface: 110002, 40400, 11503
+## Version: 1.3
+
+## Title: Lib: UTF8
+## Notes: A library for manipulating UTF-8 strings
+## Author: Kyle Smith, Alimov Stepan
+## X-License: MIT License
+
+utf8data.lua
+utf8.lua
